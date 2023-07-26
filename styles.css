@@ -1,9 +1,11 @@
 
 /* Your CSS Code here. */
-p{
+main{
 	width: 150px;
 	height: 150px;
 	background-color: black;
+}
+p{
 	display: none;
 	color: white;
 	margin-left: 32px;
